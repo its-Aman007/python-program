@@ -1,7 +1,7 @@
 class Node: 
-  
+## defined class Node.  
      
-    def __init__(self, data): 
+    def __init__(self, data): ## used init function.
         self.data = data 
         self.next = None
   

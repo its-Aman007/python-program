@@ -3,4 +3,22 @@ if num%2==0:
     print ("The num is even")
 else:
     print("The num is Odd")
+## Output="Enter the num", The num is even/odd.
+
+
+2.
+marks=int(input("Enter the num"))
+if 55<marks<=65:
+    print("Grade of Student is :B")
+elif 65<marks<=75:
+    print("Grade of Student is :A")
+elif 75<marks<=85:
+    print("Grade of Student is : A+")
+elif 85<marks<=100:
+    print("Grade of Student is :O")
+else:
+    print("Grade of Student is : I")
+
+## output="Enter the num", Grade of student is ..
+
     

@@ -33,5 +33,5 @@ for i in lst:
         odd_sum=odd_sum+i
 print("The even sum is :{}".format(even_sum))
 print("The odd sum is :{} ".format(odd_sum))
-
+## here the output will be: "The num is even or odd"
     

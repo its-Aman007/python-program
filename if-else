@@ -22,6 +22,7 @@ else:
 ## output="Enter the num", Grade of student is ..
 
 
+
 3.
 lst=[1,2,3,4,5,6,7]
 even_sum=0

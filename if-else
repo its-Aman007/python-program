@@ -6,7 +6,6 @@ else:
 ## Output="Enter the num", The num is even/odd.
 
 
-
 2.
 marks=int(input("Enter the num"))
 if 55<marks<=65:

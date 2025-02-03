@@ -7,7 +7,6 @@ else:
 
 
 
-
 2.
 marks=int(input("Enter the num"))
 if 55<marks<=65:
@@ -22,7 +21,6 @@ else:
     print("Grade of Student is : I")
 
 ## output="Enter the num", Grade of student is ..
-
 
 
 3.

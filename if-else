@@ -7,7 +7,6 @@ else:
 
 
 
-
 2.
 marks=int(input("Enter the num"))
 if 55<marks<=65:

@@ -3,7 +3,7 @@ if num%2==0:
     print ("The num is even")
 else:
     print("The num is Odd")
-## Output="Enter the num", The num is even/odd..
+## Output="Enter the num", The num is even/odd.
 
 
 2.

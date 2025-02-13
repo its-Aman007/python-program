@@ -18,7 +18,7 @@ elif 85<marks<=100:
 else:
     print("Grade of Student is : I")
 
-## output="Enter the num", Grade of student is ..
+## output="Enter the num", Grade of student is .
 
 3.
 lst=[1,2,3,4,5,6,7]

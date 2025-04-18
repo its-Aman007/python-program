@@ -7,3 +7,4 @@ for i in range(20):
     a=random.choice(animals)
     print("You are a " +a)
 pg.press("Enter")
+
